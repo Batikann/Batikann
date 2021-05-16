@@ -3,10 +3,10 @@
 
 ## I'm a Student and Developer!!
 
-- 🔭 I'm currently working on C # ASP.NEt MVC,Javascript.
+- 🔭 I'm currently working on C# .NET MVC,.NET CORE,Javascript.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2021 Goals: Learn .NET CORE ,Angular and React.
+- 🥅 2021 Goals: Learn Angular and Dart.
 - ⚡ Fun fact: I love to play game and watch movie. 
 
 <br />
