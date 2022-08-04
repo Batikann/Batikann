@@ -6,7 +6,7 @@
 - 🔭 I'm currently working on C# .NET MVC,.NET CORE,Javascript.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2021 Goals: Learn Angular,Java and React.
+- 🥅 2022 Goals: Learn Javascript,React.
 - ⚡ Fun fact: I love to play game and watch movie. 
 
 <br />
