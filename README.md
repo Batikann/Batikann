@@ -32,8 +32,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <br>
 <br>
+<div style="text-align: center;">
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Batikann&show_icons=true&theme=radical)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Batikann&layout=compact&theme=tokyonight" height="195">
+</div>
+
 
 <br />
 <br />
