@@ -30,7 +30,7 @@
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Github stats 2](https://github-readme-stats.vercel.app/api?Batikann=kullanıcıadınız&show_icons=true&theme=radical)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=Batikann&show_icons=true&theme=radical)
 
 
 <br />
