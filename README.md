@@ -34,7 +34,8 @@
 <br>
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Batikann&show_icons=true&theme=radical)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Batikann&layout=compact&theme=tokyonight" height="195">
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Batikann&layout=compact&theme=tokyonight" height="195" width="200">
 
 
 
