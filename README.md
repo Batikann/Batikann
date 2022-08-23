@@ -3,7 +3,7 @@
 
 ## I'm a Student and Developer!!
 
-- 🔭 I'm currently working on CSS,Javascrpit,React Js.
+- 🔭 I'm currently working on TailwindCSS,Javascrpit,React Js.
 - 🌱 I’m currently learning everything 🤣
 
 <br />
